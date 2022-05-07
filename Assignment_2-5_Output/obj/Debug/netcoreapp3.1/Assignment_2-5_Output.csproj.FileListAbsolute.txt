@@ -1,0 +1,14 @@
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\bin\Debug\netcoreapp3.1\Assignment_2-5_Output.exe
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\bin\Debug\netcoreapp3.1\Assignment_2-5_Output.deps.json
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\bin\Debug\netcoreapp3.1\Assignment_2-5_Output.runtimeconfig.json
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\bin\Debug\netcoreapp3.1\Assignment_2-5_Output.runtimeconfig.dev.json
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\bin\Debug\netcoreapp3.1\Assignment_2-5_Output.dll
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\bin\Debug\netcoreapp3.1\Assignment_2-5_Output.pdb
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\obj\Debug\netcoreapp3.1\Assignment_2-5_Output.csproj.AssemblyReference.cache
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\obj\Debug\netcoreapp3.1\Assignment_2-5_Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\obj\Debug\netcoreapp3.1\Assignment_2-5_Output.AssemblyInfoInputs.cache
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\obj\Debug\netcoreapp3.1\Assignment_2-5_Output.AssemblyInfo.cs
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\obj\Debug\netcoreapp3.1\Assignment_2-5_Output.csproj.CoreCompileInputs.cache
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\obj\Debug\netcoreapp3.1\Assignment_2-5_Output.dll
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\obj\Debug\netcoreapp3.1\Assignment_2-5_Output.pdb
+C:\Users\vreed\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\obj\Debug\netcoreapp3.1\Assignment_2-5_Output.genruntimeconfig.cache
