@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Assignment_2-5_Output, Configuration: Debug Any CPU ------
+1>Assignment_2-5_Output -> C:\Users\ryanl\Desktop\Ryan\OTech\Visual_Studio_Projects\Assignment_2-5_Output\Assignment_2-5_Output\bin\Debug\netcoreapp3.1\Assignment_2-5_Output.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
